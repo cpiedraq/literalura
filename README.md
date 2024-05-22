@@ -15,7 +15,7 @@ Elija la opción atraves de un número
 
 <img src="https://github.com/cpiedraq/literalura/blob/main/images/1.png">
 
-1. Buscar libro por titulo :green_book: :search: = _Busca un libro por el nombre, en el cuál se utiliza el API https://gutendex.com/books?search=NombreLibro, se enlistaran los libros encontrados, luego será necesario seleccionar el libro y el mismo serà almacenado en la base de datos_
+1. Buscar libro por titulo :green_book: = _Busca un libro por el nombre, en el cuál se utiliza el API https://gutendex.com/books?search=NombreLibro, se enlistaran los libros encontrados, luego será necesario seleccionar el libro y el mismo serà almacenado en la base de datos_
 
 <img src="https://github.com/cpiedraq/literalura/blob/main/images/2.png">
 
